@@ -1,4 +1,4 @@
-package variablesdatetime01;
+package variablesdaytime01;
 
 import java.util.Scanner;
 

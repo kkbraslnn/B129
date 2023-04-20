@@ -31,23 +31,5 @@ TASK :
         String result=(harfMi)    ? kucukHarfMi?"Kucuk Harf"    : "Buyuk Harf" :"Harf Degil";
         System.out.println("result ="+ result);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }

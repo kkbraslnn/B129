@@ -2,7 +2,7 @@ package day09incrementdecrementternaryswitch;
 
 import java.util.Scanner;
 
-public class Switch02 {
+public class SwitchEng02 {
     public static void main(String[] args) {
 
 
@@ -43,6 +43,13 @@ public class Switch02 {
                 System.out.println("Invalid month number");
 
         }
+
+        /*
+
+        note:"break" keyword is used in "switch" statement to stop next case executions.
+             "break" keyword takes us to the outside the switch statement
+
+         */
 
 
 

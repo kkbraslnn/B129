@@ -107,45 +107,5 @@ public class C01_StringManipulations {
         //kullanicidan isim ve soy isim girmesini isteyin hangisiinin dah uczun oldugunu yazdiran kodu olusturun
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }

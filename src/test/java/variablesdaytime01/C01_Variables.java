@@ -1,6 +1,4 @@
-package variablesdatetime01;
-
-import java.sql.SQLOutput;
+package variablesdaytime01;
 
 public class C01_Variables {
 
